@@ -1,0 +1,159 @@
+1587664736243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebO6lZJ"
+1587665215567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOf3zhv"
+1587665218158	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587665218159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587665218160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587665218160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1587665227251	Marionette	INFO	Listening on port 44465
+1587665227342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587665234348	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://login.mos.ru/sps/assets/blitz-common/ilib/requirejs/require.min.js, line 1: Error: Script error for: theme-main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://login.mos.ru/sps/assets/blitz-common/ilib/requirejs/require.min.js, line 1: Error: Script error for: theme-utility
+http://requirejs.org/docs/errors.html#scripterror
+1587665308271	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
+1587666179789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT9VjKf"
+1587666181028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587666181029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587666181029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587666181030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1587666186014	Marionette	INFO	Listening on port 43257
+1587666186133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.mos.ru/sps/assets/blitz-common/ilib/requirejs/require.min.js, line 1: Error: Script error for: jquery-ui
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://login.mos.ru/sps/assets/blitz-common/ilib/requirejs/require.min.js, line 1: Error: Script error for: fingerprint2
+http://requirejs.org/docs/errors.html#scripterror
+1587666324438	Marionette	INFO	Stopped listening on port 43257
+1587666338349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileidvCUe"
+1587666339471	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587666339472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587666339473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587666339473	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1587666343899	Marionette	INFO	Listening on port 34297
+1587666343977	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.mos.ru/sps/assets/blitz-common/ilib/requirejs/require.min.js, line 1: Error: Script error for: jquery-ui
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://login.mos.ru/sps/assets/blitz-common/ilib/requirejs/require.min.js, line 1: Error: Script error for: fingerprint2
+http://requirejs.org/docs/errors.html#scripterror
+1587666387738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2bCi3t"
+1587666388983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587666388983	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587666388985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587666388985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1587666394563	Marionette	INFO	Listening on port 37221
+1587666394592	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1587666400878	Marionette	INFO	Stopped listening on port 34297
+JavaScript error: https://login.mos.ru/sps/assets/blitz-common/ilib/requirejs/require.min.js, line 1: Error: Script error for: theme-main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://login.mos.ru/sps/assets/blitz-common/ilib/requirejs/require.min.js, line 1: Error: Script error for: theme-utility
+http://requirejs.org/docs/errors.html#scripterror
+1587666462661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled53Er6"
+1587666463968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587666463968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587666463969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587666463970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1587666469963	Marionette	INFO	Listening on port 43239
+1587666470009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587666471798	Marionette	INFO	Stopped listening on port 37221
+1587666476260	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://login.mos.ru/sps/assets/blitz-common/ilib/requirejs/require.min.js, line 1: Error: Script error for: fingerprint2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://login.mos.ru/sps/assets/blitz-common/ilib/requirejs/require.min.js, line 1: Error: Script error for: theme-utility
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://login.mos.ru/sps/assets/blitz-common/ilib/requirejs/require.min.js, line 1: Error: Script error for: theme-main
+http://requirejs.org/docs/errors.html#scripterror
+1587666538042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev0ruDk"
+1587666559995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexd7JmU"
+1587666561369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587666561370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587666561371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587666561371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1587666566749	Marionette	INFO	Listening on port 44623
+1587666566846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587666574372	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: https://login.mos.ru/sps/assets/blitz-common/ilib/requirejs/require.min.js, line 1: Error: Script error for: theme-utility
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://login.mos.ru/sps/assets/blitz-common/ilib/requirejs/require.min.js, line 1: Error: Script error for: theme-main
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Parent 3736, Gecko_IOThread] WARNING: pipe error (130): Connection reset by peer: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1587666590405	Marionette	INFO	Stopped listening on port 44623
+1587666594800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilendAi3p"
+1587666595942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587666595943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587666595944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587666595945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1587666601750	Marionette	INFO	Listening on port 35573
+1587666601832	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1587666636635	Marionette	ERROR	[6442450945] No reply from Marionette:Register
+1587666638807	Marionette	INFO	Stopped listening on port 35573
+1587666716883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile04jNSH"
+1587666718017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587666718018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587666718019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587666718019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1587666722575	Marionette	INFO	Listening on port 37731
+1587666722625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.mos.ru/sps/assets/blitz-common/ilib/requirejs/require.min.js, line 1: Error: Script error for: theme-main
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1587666749994	Marionette	ERROR	[6442450945] No reply from Marionette:Register
+1587666751942	Marionette	INFO	Stopped listening on port 37731
+1587666923580	Marionette	INFO	Stopped listening on port 43239
+1587666941216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA43Ytd"
+1587666942339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587666942340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587666942341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587666942341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1587666946977	Marionette	INFO	Listening on port 35191
+1587666947055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.mos.ru/sps/assets/blitz-common/ilib/requirejs/require.min.js, line 1: Error: Script error for: fingerprint2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://login.mos.ru/sps/assets/blitz-common/ilib/requirejs/require.min.js, line 1: Error: Script error for: theme-main
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://login.mos.ru/sps/assets/blitz-common/ilib/requirejs/require.min.js, line 1: Error: Script error for: theme-utility
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 48: TypeError: composedTarget is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Parent 4553, Gecko_IOThread] WARNING: pipe error (115): Connection reset by peer: file /build/firefox-esr-tpvy6K/firefox-esr-68.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1587667069370	Marionette	INFO	Stopped listening on port 35191
